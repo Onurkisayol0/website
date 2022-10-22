@@ -71,23 +71,23 @@
         font-size: 20px;
     }
 
-    /* why us section */
-    .why_us_child{
+    /* yazilimlar */
+    .innersoftware_child{
         flex-basis: 100%;
         margin-bottom: 30px;
     }
 
-    .why_us_child .icon{
+    .innersoftware_child .icon{
         margin-bottom: 10px;
     }
 
-    /* courses section */
+    /* Sertifikalarım */
 
     .child_courses{
         flex-basis: 100%;
         margin-bottom: 30px;
     }
-    /* achivement section */
+    /* Başarılar*/
     .child_achivement{
         flex-basis: 100%;
         margin-bottom: 30px;
@@ -101,7 +101,7 @@
         margin-bottom: 20px;
     }
 
-    /* testimonail secition */
+    /* Hakkımda */
     .child_testi{
         flex-basis: 100%;
         margin-bottom: 40px;
@@ -116,13 +116,13 @@
         line-height: 28px;
     }
 
-    /* contact section */
+    /* iletişim */
     .child_contact{
         flex-basis: 100%;
         margin-bottom: 30px;
     }
 
-    /* footer section */
+    /* footer  */
     .child_footer{
         flex-basis: 100%;
         margin-bottom: 30px;
