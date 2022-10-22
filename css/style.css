@@ -43,6 +43,7 @@ section{
     text-align: center;
     color: #fff;
     font-size: 30px;
+    transition: all .5s ease-in-out;
 
 }
 .section_title h2:hover{
@@ -158,9 +159,6 @@ header{
 -------------Yazılımlar-------------
 ===================================== */
 
-#why_us{
-    background: #24292D;
-}
 .innersoftware{
     display: flex;
     width: 80%;
@@ -205,9 +203,6 @@ header{
 -------------Sertifikalarım-------------
 ===================================== */
 
-#courses{
-    background: #24292D;
-}
 
 #courses .section_title h2::after {
     transform: translateX(-110%) rotate(356deg);
@@ -260,10 +255,6 @@ header{
 /* ==================================
 -------------başarılar-------------
 ===================================== */
-
-#achivement{
-    background: #24292D;
-}
 
 .inner_achivemnet{
     display: flex;
