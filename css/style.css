@@ -179,21 +179,21 @@ header{
 
 }
 
-.why_us_child:hover{
+.innersoftware_child:hover{
     border: 1px solid #24CAAC;
 }
 
-.why_us_child .icon{
+.innersoftware_child .icon{
     font-size: 25px;
     color: #24CAAC;
 }
 
-.why_us_child h3{
+.innersoftware_child h3{
     font-size: 20px;
     margin: 5px 0px;
 }
 
-.why_us_child p{
+.innersoftware_child p{
     font-size: 16px;
 }
 
